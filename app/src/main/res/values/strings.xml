@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Parse Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back4app_app_id">S9a69RF8yQ3IIfBJLy93wRrCnnLCqH0jiUme1hyi</string>
+    <string name="back4app_client_key">ezG9S3oeyrTryLolL6k08XMcRQfZeP44x9EF1sd8</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+</resources>
